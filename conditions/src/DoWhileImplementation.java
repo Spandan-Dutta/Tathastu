@@ -24,5 +24,7 @@ public class DoWhileImplementation {
         }
         while (number != 0);
         System.out.println("Thank You");
+        s.close();
     }
+
 }
